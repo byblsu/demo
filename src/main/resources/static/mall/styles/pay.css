@@ -157,12 +157,12 @@ body, .body {
 }
 
 .icon-ali-pay {
-    background: url("../image/pay/alipay_logo.jpg") no-repeat;
+    background:  no-repeat;
     background-size: cover;
 }
 
 .icon-wx-pay {
-    background: url("../image/pay/wx_logo.jpg") no-repeat;
+    background:  no-repeat;
     background-size: cover;
 }
 
@@ -180,7 +180,7 @@ body, .body {
     margin-top: 15px;
     margin-bottom: 15px;
     padding-bottom: 10px;
-    background: #fff url("../image/pay/wave-repeat.png") top center repeat-x;
+    background: #fff  top center repeat-x;
     text-align: center;
     color: #333;
     border: 1px solid #e5e5e5;

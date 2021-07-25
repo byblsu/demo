@@ -61,8 +61,8 @@ CREATE TABLE `tb_newbee_mall_carousel`  (
 -- link https://github.com/newbee-ltd
 -- Records of tb_newbee_mall_carousel
 -- ----------------------------
-INSERT INTO `tb_newbee_mall_carousel` VALUES (2, 'https://newbee-mall.oss-cn-beijing.aliyuncs.com/images/banner1.png', 'https://juejin.im/book/5da2f9d4f265da5b81794d48/section/5da2f9d6f265da5b794f2189', 13, 0, '2019-11-29 00:00:00', 0, '2019-11-29 00:00:00', 0);
-INSERT INTO `tb_newbee_mall_carousel` VALUES (5, 'https://newbee-mall.oss-cn-beijing.aliyuncs.com/images/banner2.png', 'https://juejin.im/book/5da2f9d4f265da5b81794d48/section/5da2f9d6f265da5b794f2189', 0, 0, '2019-11-29 00:00:00', 0, '2019-11-29 00:00:00', 0);
+INSERT INTO `tb_newbee_mall_carousel` VALUES (2, 'https://newbee-mall.oss-cn-beijing.aliyuncs.com/images/banner1.png', 'https://wpa.qq.com/msgrd?v=3&uin=980343682&site=qq&menu=yes', 13, 0, '2019-11-29 00:00:00', 0, '2019-11-29 00:00:00', 0);
+INSERT INTO `tb_newbee_mall_carousel` VALUES (5, 'https://newbee-mall.oss-cn-beijing.aliyuncs.com/images/banner2.png', 'https://wpa.qq.com/msgrd?v=3&uin=980343682&site=qq&menu=yes', 0, 0, '2019-11-29 00:00:00', 0, '2019-11-29 00:00:00', 0);
 
 -- ----------------------------
 -- author 13

@@ -36,6 +36,8 @@ public class IndexController {
     @Resource
     private NewBeeMallCategoryService newBeeMallCategoryService;
 
+
+
     @GetMapping({"/index", "/", "/index.html"})
     public String indexPage(HttpServletRequest request) {
         List<NewBeeMallIndexCategoryVO> categories = newBeeMallCategoryService.getCategoriesForIndex();
